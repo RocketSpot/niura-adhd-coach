@@ -1,6 +1,5 @@
 import styled from '@emotion/styled';
 import { SpotlightProvider } from '@mantine/spotlight';
-import SettingsDrawer from './settings';
 import Sidebar from './sidebar';
 import AudioControls from './tts-controls';
 
