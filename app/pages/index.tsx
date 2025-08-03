@@ -1,6 +1,5 @@
 import styled from '@emotion/styled';
 import { SpotlightProvider } from '@mantine/spotlight';
-import { useChatSpotlightProps } from '../spotlight';
 import { LoginModal, CreateAccountModal } from './auth-modals';
 import Header, { HeaderProps, SubHeader } from './header';
 import MessageInput from './input';
