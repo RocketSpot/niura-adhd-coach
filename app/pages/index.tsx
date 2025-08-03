@@ -62,7 +62,6 @@ const Main = styled.div`
 
 export function Page(props: {
     id: string;
-    headerProps?: HeaderProps;
     showSubHeader?: boolean;
     children: any;
 }) {
